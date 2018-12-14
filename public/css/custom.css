@@ -1,0 +1,22 @@
+table{
+	margin-top: 15px;
+	width: 100%;
+}
+
+table tbody td img, .form-group img{
+	width: 128px;
+	height: 128px;
+	object-fit: cover;
+	border-radius: 50%;
+}
+
+footer.footer{
+	width: 100%;
+	height: 50px;
+	line-height: 50px;
+	text-align: center;
+}
+
+footer.footer p{
+	color: #777;
+}
